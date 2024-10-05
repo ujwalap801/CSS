@@ -1,0 +1,20 @@
+h1{
+    color: aqua;
+    text-align: center;
+    text-decoration: line-through;
+    text-transform: uppercase;
+    text-shadow:3px 3px 0px green ;
+}
+
+h2{
+    letter-spacing: 10px;
+    word-spacing: 20px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 400;
+}
+
+p{
+    line-height: 30px;
+}
