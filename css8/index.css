@@ -1,0 +1,15 @@
+.common{
+    color: blue;
+}
+
+p{
+    font-size: 1.3rem;
+    color: green;
+}
+
+
+span{
+    font-weight: bold;
+    background-color: green;
+    color: black;
+}

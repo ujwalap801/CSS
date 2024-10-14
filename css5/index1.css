@@ -1,0 +1,10 @@
+h1{
+    background-image: url(img2.jpeg);
+    background-color: violet;
+    background-blend-mode:color-burn ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    color: white;
+    font-size: 4rem;
+}

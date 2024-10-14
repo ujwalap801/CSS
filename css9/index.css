@@ -1,0 +1,9 @@
+html{
+    --myblue-color:rgba(0, 0, 255, 0.582);
+    
+}
+
+h1{
+    border: 3px solid red;
+    color: var(--myblue-color);
+}

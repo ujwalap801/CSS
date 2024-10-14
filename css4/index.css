@@ -1,0 +1,16 @@
+ul{
+    font-size: 2rem;
+    color: red;
+    list-style-type: circle;
+    text-align: center;
+    list-style-position: inside;
+}
+
+a{
+    font-size: 4rem;
+
+}
+
+a:visited{
+    color: yellow;
+}

@@ -1,0 +1,1 @@
+## A percentage value for width (or height) is calculated based on the size of the parent element. For example, if you set an element's width to 50%, it will take up half of the width of its parent element.
