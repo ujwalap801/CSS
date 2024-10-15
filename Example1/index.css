@@ -1,0 +1,44 @@
+/* reset styles with universal selector*/
+
+
+*{
+    
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #83c2c7;
+    background-image: url(img1.jpeg);
+    background-blend-mode: lighten;
+    background-size: cover;
+    color: white;
+    padding: 150px;
+
+}
+
+
+header p{
+    color: goldenrod;
+    font-size: 1.5rem;
+}
+
+
+header h1{
+    font-size: 3rem;
+}
+
+
+main{
+    margin: 30px 70px;
+}
+
+main div{
+    margin-bottom: 50px;
+}
+footer{
+    background-color: antiquewhite;
+  
+    text-align: center;
+    padding: 25px;
+}
